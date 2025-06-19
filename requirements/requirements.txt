@@ -3,3 +3,4 @@ setuptools
 
 requests>=2.31.0
 deprecated
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
